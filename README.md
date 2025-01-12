@@ -1,3 +1,3 @@
-#Hello there
-##test second
-###test third
+# Hello there,
+## this is my playgorund for now
+### with the purpose to get some handson experience on github
